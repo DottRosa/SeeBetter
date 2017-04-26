@@ -4,7 +4,8 @@
 
 1. Simulare acromatopsia
 1. ~~_Anomalie tricromatiche_~~
-1. Raffinare daltonizzatore (Canny Edge Detection)
+1. Raffinare daltonizzatore (Canny Edge detection).
+1. Si può migliorare il sobel, basta evitare di fare prima la conversione del frame in grigio e poi applicare il filtro. Mentre converto in grigio applico il filtro, nello stesso ciclo.
 
 ---
 
