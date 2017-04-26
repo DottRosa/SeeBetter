@@ -17,6 +17,10 @@
 
 1. Gestione camera - https://inducesmile.com/android/android-camera-api-tutorial/
 
+1. Reperimento bibliografia 1 - https://scholar.google.it/schhp?hl=it&as_sdt=0,5
+
+1. Reperimento bibliografia 2 - http://dl.acm.org/dl.cfm?CFID=755454821&CFTOKEN=14310714
+
 ---
 
 ## RIFERIMENTI
