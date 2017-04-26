@@ -49,6 +49,12 @@
 
 ---
 
+## APP FEATURE
+
+1. Prendere una foto dalla galleria e con il programma daltonizzarla (in questo caso si può fare lato server)
+
+---
+
 ## STATO DELL'ARTE
 
 1. http://www.color-blindness.com/2010/12/13/20-iphone-apps-for-the-color-blind/
