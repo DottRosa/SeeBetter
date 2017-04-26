@@ -4,7 +4,7 @@
 
 1. Simulare acromatopsia
 1. ~~_Anomalie tricromatiche_~~
-1. Raffinare daltonizzatore (Edge detection)
+1. Raffinare daltonizzatore (Canny Edge Detection)
 
 ---
 
@@ -34,6 +34,7 @@
 
 1. daltonize.py - https://moinmo.in/AccessibleMoin?action=AttachFile&do=view&target=daltonize.py
 
+1. Canny edge detection - https://en.wikipedia.org/wiki/Canny_edge_detector
 
 ---
 
