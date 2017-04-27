@@ -71,6 +71,8 @@
 
 1. Spunta per mostrare i frame al secondo (http://stackoverflow.com/questions/8907917/how-to-measure-fps-on-android-during-app-development)
 
+1. Problema strech immagini (http://stackoverflow.com/questions/13901040/textures-are-stretched-in-android-opengl-es-2-0)
+
 ---
 
 ## STATO DELL'ARTE
