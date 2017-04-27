@@ -2,10 +2,22 @@
 
 ## TODO
 
-1. Simulare acromatopsia
-1. ~~_Anomalie tricromatiche_~~
-1. Raffinare daltonizzatore (Canny Edge detection).
-1. Si può migliorare il sobel, basta evitare di fare prima la conversione del frame in grigio e poi applicare il filtro. Mentre converto in grigio applico il filtro, nello stesso ciclo.
+- [ ] Simulare acromatopsia
+- [ ] Raffinare daltonizzatore (Canny Edge detection).
+- [ ] Si può migliorare il sobel, basta evitare di fare prima la conversione del frame in grigio e poi applicare il filtro. Mentre converto in grigio applico il filtro, nello stesso ciclo.
+- [x] Fare menu filtri
+- [ ] Impostare layout quando un filtro è selezionato (si dovrebbero usare le selection)
+- [ ] Fare menu daltonizzazione
+- [ ] Creare immagini daltonizzazione menu
+- [ ] Implementare i filtri in C
+- [ ] Fare impostazioni
+- [ ] Fare info
+- [ ] Fare animazioni
+- [ ] Fare logo
+- [ ] Sistemare tutto il codice
+- [ ] Fare in modo di scattare foto e di salvarle
+- [ ] Sistemare layout header bar (se cambia il nome non devono cambiare le distanze)
+
 
 ---
 
@@ -52,6 +64,12 @@
 ## APP FEATURE
 
 1. Prendere una foto dalla galleria e con il programma daltonizzarla (in questo caso si può fare lato server)
+
+1. Le impostazioni per la daltonizzazione (solo bordi, solo daltonizzazione o tutti e due) lo metto nelle impostazioni. Immagine di esempio (devono essere 3 per far vedere tutte le tipologie) che cambia al variare delle due spunte. Se toglie tutte le spunte viene fuori un Toast che dice che non si può fare. (COME SI SALVANO LE IMPOSTAZIONI? FILE XML?). 
+
+1. Possibilità di scegliere il colore dei bordi nella edge detection. Compare un pulsante che permette di scegliere il colore.
+
+1. Spunta per mostrare i frame al secondo (http://stackoverflow.com/questions/8907917/how-to-measure-fps-on-android-during-app-development)
 
 ---
 
