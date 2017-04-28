@@ -65,7 +65,7 @@
 
 1. Prendere una foto dalla galleria e con il programma daltonizzarla (in questo caso si può fare lato server)
 
-1. Le impostazioni per la daltonizzazione (solo bordi, solo daltonizzazione o tutti e due) lo metto nelle impostazioni. Immagine di esempio (devono essere 3 per far vedere tutte le tipologie) che cambia al variare delle due spunte. Se toglie tutte le spunte viene fuori un Toast che dice che non si può fare. (COME SI SALVANO LE IMPOSTAZIONI? FILE XML?). 
+1. Le impostazioni per la daltonizzazione (solo bordi, solo daltonizzazione o tutti e due) lo metto nelle impostazioni. Immagine di esempio (devono essere 3 per far vedere tutte le tipologie) che cambia al variare delle due spunte. Se toglie tutte le spunte viene fuori un Toast che dice che non si può fare. (https://developer.android.com/guide/topics/ui/settings.html)
 
 1. Possibilità di scegliere il colore dei bordi nella edge detection. Compare un pulsante che permette di scegliere il colore.
 
