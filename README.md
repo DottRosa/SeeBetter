@@ -73,6 +73,8 @@
 
 1. Problema strech immagini (http://stackoverflow.com/questions/13901040/textures-are-stretched-in-android-opengl-es-2-0)
 
+1. GLSL https://en.wikibooks.org/wiki/GLSL_Programming/Vector_and_Matrix_Operations - https://www.khronos.org/opengl/wiki/Data_Type_(GLSL)
+
 ---
 
 ## STATO DELL'ARTE
