@@ -6,7 +6,7 @@
 - [ ] Raffinare daltonizzatore (Canny Edge detection).
 - [ ] Si può migliorare il sobel, basta evitare di fare prima la conversione del frame in grigio e poi applicare il filtro. Mentre converto in grigio applico il filtro, nello stesso ciclo.
 - [x] Fare menu filtri
-- [ ] Impostare layout quando un filtro è selezionato (si dovrebbero usare le selection)
+- [x] Impostare layout quando un filtro è selezionato (si dovrebbero usare le selection)
 - [ ] Fare menu daltonizzazione
 - [ ] Creare immagini daltonizzazione menu
 - [x] Fare filtro protanopia
