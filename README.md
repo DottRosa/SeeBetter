@@ -9,7 +9,10 @@
 - [ ] Impostare layout quando un filtro è selezionato (si dovrebbero usare le selection)
 - [ ] Fare menu daltonizzazione
 - [ ] Creare immagini daltonizzazione menu
-- [ ] Implementare i filtri in C
+- [x] Fare filtro protanopia
+- [ ] Fare filtro deuteranopia
+- [ ] Fare filtro tritanopia
+- [ ] Fare filtro normale
 - [ ] Fare impostazioni
 - [ ] Fare info
 - [ ] Fare animazioni
