@@ -10,16 +10,16 @@
 - [x] Fare menu daltonizzazione
 - [x] Creare immagini daltonizzazione menu
 - [x] Fare filtro protanopia
-- [ ] Fare filtro deuteranopia
-- [ ] Fare filtro tritanopia
+- [x] Fare filtro deuteranopia
+- [x] Fare filtro tritanopia
 - [x] Fare filtro normale
 - [ ] Fare impostazioni
 - [ ] Fare info
 - [ ] Fare animazioni
 - [ ] Fare logo
 - [ ] Sistemare tutto il codice
-- [ ] Fare in modo di scattare foto e di salvarle
-- [ ] Sistemare layout header bar (se cambia il nome non devono cambiare le distanze)
+- [x] Fare in modo di scattare foto e di salvarle
+- [x] Sistemare layout header bar (se cambia il nome non devono cambiare le distanze)
 
 
 ---
