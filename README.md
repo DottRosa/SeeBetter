@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [ ] Simulare acromatopsia
+- [ ] Simulare acromatopsia?
 - [ ] Raffinare daltonizzatore (Canny Edge detection).
 - [ ] Si può migliorare il sobel, basta evitare di fare prima la conversione del frame in grigio e poi applicare il filtro. Mentre converto in grigio applico il filtro, nello stesso ciclo.
 - [x] Fare menu filtri
@@ -74,7 +74,7 @@
 
 1. Spunta per mostrare i frame al secondo (http://stackoverflow.com/questions/8907917/how-to-measure-fps-on-android-during-app-development)
 
-1. Problema strech immagini (http://stackoverflow.com/questions/13901040/textures-are-stretched-in-android-opengl-es-2-0)
+1. Problema strech immagini (http://stackoverflow.com/questions/13901040/textures-are-stretched-in-android-opengl-es-2-0), (https://developer.android.com/guide/topics/graphics/opengl.html)
 
 1. GLSL https://en.wikibooks.org/wiki/GLSL_Programming/Vector_and_Matrix_Operations - https://www.khronos.org/opengl/wiki/Data_Type_(GLSL)
 
