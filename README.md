@@ -20,6 +20,7 @@
 - [ ] Sistemare tutto il codice
 - [x] Fare in modo di scattare foto e di salvarle
 - [x] Sistemare layout header bar (se cambia il nome non devono cambiare le distanze)
+- [ ] Sistemare salto dei frame quando apro le preferenze (è colpa del fragment!!!)
 
 
 ---
