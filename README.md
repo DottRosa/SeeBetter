@@ -2,9 +2,6 @@
 
 ## TODO
 
-- [ ] Simulare acromatopsia?
-- [ ] Raffinare daltonizzatore (Canny Edge detection).
-- [ ] Si può migliorare il sobel, basta evitare di fare prima la conversione del frame in grigio e poi applicare il filtro. Mentre converto in grigio applico il filtro, nello stesso ciclo.
 - [x] Fare menu filtri
 - [x] Impostare layout quando un filtro è selezionato (si dovrebbero usare le selection)
 - [x] Fare menu daltonizzazione
@@ -15,12 +12,12 @@
 - [x] Fare filtro normale
 - [ ] Fare impostazioni
 - [ ] Fare info
-- [ ] Fare animazioni
 - [ ] Fare logo
 - [ ] Sistemare tutto il codice
 - [x] Fare in modo di scattare foto e di salvarle
 - [x] Sistemare layout header bar (se cambia il nome non devono cambiare le distanze)
 - [ ] Sistemare salto dei frame quando apro le preferenze (è colpa del fragment!!!)
+- [ ] Sistemare allineamento daltonizzazioni
 
 
 ---
@@ -66,10 +63,6 @@
 ---
 
 ## APP FEATURE
-
-1. Prendere una foto dalla galleria e con il programma daltonizzarla (in questo caso si può fare lato server)
-
-1. Le impostazioni per la daltonizzazione (solo bordi, solo daltonizzazione o tutti e due) lo metto nelle impostazioni. Immagine di esempio (devono essere 3 per far vedere tutte le tipologie) che cambia al variare delle due spunte. Se toglie tutte le spunte viene fuori un Toast che dice che non si può fare. (https://developer.android.com/guide/topics/ui/settings.html)
 
 1. Possibilità di scegliere il colore dei bordi nella edge detection. Compare un pulsante che permette di scegliere il colore (http://stackoverflow.com/questions/8629535/implementing-a-slider-in-android).
 
