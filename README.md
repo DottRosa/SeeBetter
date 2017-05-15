@@ -2,6 +2,7 @@
 
 ## TODO
 
+- [ ] Migliorare filtri!!! https://github.com/eduardolundgren/color-blindness-simulator/blob/master/src/convertToDichromatImage.m
 - [x] Fare menu filtri
 - [x] Impostare layout quando un filtro è selezionato (si dovrebbero usare le selection)
 - [x] Fare menu daltonizzazione
