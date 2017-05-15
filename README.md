@@ -57,6 +57,8 @@
 
 1. Protanopia - http://biecoll.ub.uni-bielefeld.de/volltexte/2007/52/pdf/ICVS2007-6.pdf
 
+1. I vari metodi sono diversi - http://colorblindtools.blogspot.it/2017/02/colorblind-simulation-model-testing.html
+
 ---
 
 ## PAROLE CHIAVE
