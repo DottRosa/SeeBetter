@@ -55,6 +55,8 @@
 
 1. Canny edge detection - https://en.wikipedia.org/wiki/Canny_edge_detector
 
+1. Protanopia - http://biecoll.ub.uni-bielefeld.de/volltexte/2007/52/pdf/ICVS2007-6.pdf
+
 ---
 
 ## PAROLE CHIAVE
