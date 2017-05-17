@@ -11,16 +11,16 @@
 - [x] Fare filtro deuteranopia
 - [x] Fare filtro tritanopia
 - [x] Fare filtro normale
-- [ ] Fare edge detection ad hoc con colori giusti e fare filtri con tutte e due le daltonizzazioni
-- [ ] Fare impostazioni
+- [x] Fare edge detection ad hoc con colori giusti e fare filtri con tutte e due le daltonizzazioni
+- [x] Fare impostazioni
 - [ ] Fare info
-- [ ] Fare logo
+- [x] Fare logo
 - [ ] Sistemare tutto il codice
 - [x] Fare in modo di scattare foto e di salvarle
 - [x] Sistemare layout header bar (se cambia il nome non devono cambiare le distanze)
 - [ ] Sistemare salto dei frame quando apro le preferenze (è colpa del fragment!!!)
-- [ ] Sistemare allineamento daltonizzazioni
-- [ ] Cambiare anteprime menu aggiornate
+- [x] Sistemare allineamento daltonizzazioni
+- [x] Cambiare anteprime menu aggiornate
 
 
 ---
