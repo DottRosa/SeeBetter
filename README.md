@@ -20,6 +20,7 @@
 - [x] Sistemare layout header bar (se cambia il nome non devono cambiare le distanze)
 - [ ] Sistemare salto dei frame quando apro le preferenze (è colpa del fragment!!!)
 - [ ] Sistemare allineamento daltonizzazioni
+- [ ] Cambiare anteprime menu aggiornate
 
 
 ---
