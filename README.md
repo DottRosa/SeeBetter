@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [ ] Migliorare filtri!!! https://github.com/eduardolundgren/color-blindness-simulator/blob/master/src/convertToDichromatImage.m
+- [x] Migliorare filtri!!!
 - [x] Fare menu filtri
 - [x] Impostare layout quando un filtro è selezionato (si dovrebbero usare le selection)
 - [x] Fare menu daltonizzazione
@@ -11,6 +11,7 @@
 - [x] Fare filtro deuteranopia
 - [x] Fare filtro tritanopia
 - [x] Fare filtro normale
+- [ ] Fare edge detection ad hoc con colori giusti e fare filtri con tutte e due le daltonizzazioni
 - [ ] Fare impostazioni
 - [ ] Fare info
 - [ ] Fare logo
