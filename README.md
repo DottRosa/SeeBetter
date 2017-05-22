@@ -21,6 +21,7 @@
 - [ ] Sistemare salto dei frame quando apro le preferenze (è colpa del fragment!!!)
 - [x] Sistemare allineamento daltonizzazioni
 - [x] Cambiare anteprime menu aggiornate
+- [ ] Cambiare nome foto salvata se filtro è daltonizzazione
 
 
 ---
