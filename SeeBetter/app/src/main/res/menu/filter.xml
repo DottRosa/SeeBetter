@@ -1,0 +1,54 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/capture"
+        android:title="Capture"
+        android:icon="@android:drawable/ic_menu_camera"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/filter_1"
+        android:title="Normal"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/filter_2"
+        android:title="Protanope"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/filter_3"
+        android:title="Deuteranope"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/filter_4"
+        android:title="Tritanope"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/daltonize_p"
+        android:title="Protanope"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/daltonize_d"
+        android:title="Deuteranope"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/daltonize_t"
+        android:title="Tritanope"
+        app:showAsAction="never"
+        />
+
+</menu>

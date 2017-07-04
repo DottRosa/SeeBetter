@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Correzione (daltonizzazione)">
+
+        <ListPreference
+            android:key="correction_method"
+            android:title="@string/daltonize_method_title"
+            android:dialogTitle="@string/daltonize_method_title"
+            android:summary="Seleziona un metodo di correzione"
+            android:entries="@array/daltonize_method"
+            android:entryValues="@array/daltonize_method_data"
+            android:defaultValue="@string/default_daltonize_method" />
+
+        <CheckBoxPreference
+            android:title="@string/finger_filter_title"
+            android:defaultValue="true"
+            android:summary="@string/finger_filter_summary_true"
+            android:key="finger_filter" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

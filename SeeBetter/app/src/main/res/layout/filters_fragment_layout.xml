@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/FragmentMenu">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="30dp">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="15dp"
+                android:background="#AA000000"
+                android:id="@+id/n_box">
+
+                <ImageView
+                    style="@style/MenuItemsImage"
+                    android:id="@+id/normale"
+                    app:srcCompat="@drawable/normale"
+                    android:contentDescription="@string/filter_normal_alt" />
+
+                <TextView
+                    style="@style/MenuItemsText"
+                    android:text="@string/filter_label_normal"
+                    android:layout_below="@id/normale"
+                    />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:background="#AA000000"
+                android:id="@+id/p_box">
+
+                <ImageView
+                    style="@style/MenuItemsImage"
+                    android:id="@+id/protanopia"
+                    app:srcCompat="@drawable/filtro_p"
+                    android:contentDescription="@string/filter_protanope_alt"/>
+
+                <TextView
+                    style="@style/MenuItemsText"
+                    android:text="@string/filter_label_protanope"
+                    android:layout_below="@id/protanopia" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="30dp">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="15dp"
+                android:background="#AA000000"
+                android:id="@+id/d_box">
+
+                <ImageView
+                    style="@style/MenuItemsImage"
+                    android:id="@+id/deuteranopia"
+                    app:srcCompat="@drawable/filtro_d"
+                    android:contentDescription="@string/filter_deuteranope_alt"/>
+
+                <TextView
+                    style="@style/MenuItemsText"
+                    android:text="@string/filter_label_deuteranope"
+                    android:layout_below="@id/deuteranopia" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:background="#AA000000"
+                android:id="@+id/t_box">
+
+                <ImageView
+                    style="@style/MenuItemsImage"
+                    android:id="@+id/tritanopia"
+                    app:srcCompat="@drawable/filtro_t"
+                    android:contentDescription="@string/filter_tritanope_alt"/>
+
+                <TextView
+                    style="@style/MenuItemsText"
+                    android:text="@string/filter_label_tritanope"
+                    android:layout_below="@id/tritanopia" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:layout_marginEnd="40dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/filter_menu_explanation"
+            android:textSize="15sp"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

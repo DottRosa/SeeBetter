@@ -1,0 +1,252 @@
+<resources>
+    <string name="app_name">SeeBetter</string>
+
+    <!-- STRINGHE PER IL NOME DEL FILTRO APPLICATO (TextView nella parte superiore dello schermo -->
+
+    <string name="normal_filter_type_name">
+        Normale
+    </string>
+
+    <string name="protanope_filter_type_name">
+        Protanopia
+    </string>
+
+    <string name="deuteranope_filter_type_name">
+        Deuteranopia
+    </string>
+
+    <string name="tritanope_filter_type_name">
+        Tritanopia
+    </string>
+
+    <string name="protanope_daltonize_type_name">
+        Protanopia (C)
+    </string>
+
+    <string name="deuteranope_daltonize_type_name">
+        Deuteranopia (C)
+    </string>
+
+    <string name="tritanope_daltonize_type_name">
+        Tritanopia (C)
+    </string>
+
+
+
+
+
+    <!-- LABEL DEI PULSANTI INTERFACCIA PRINCIPALE -->
+
+    <string name="filters_button_label">
+        SIMULA
+    </string>
+
+    <string name="daltonize_button_label">
+        CORREGGI
+    </string>
+
+
+
+
+    <!-- TITOLI, SOTTOTITOLI E TESTI PER LE INFO -->
+
+    <string name="info_protanopia_title">
+        PROTANOPIA
+    </string>
+
+    <string name="info_protanopia_subtitle">
+        Cecità al rosso
+    </string>
+
+    <string name="info_deuteranopia_title">
+        DEUTERANOPIA
+    </string>
+
+    <string name="info_deuteranopia_subtitle">
+        Cecità al verde
+    </string>
+
+    <string name="info_tritanopia_title">
+        TRITANOPIA
+    </string>
+
+    <string name="info_tritanopia_subtitle">
+        Cecità al blu
+    </string>
+
+    <string name="info_trichromatic_title">
+        VISIONE TRICROMATICA
+    </string>
+
+    <string name="info_trichromatic_subtitle">
+        Visione normale
+    </string>
+
+    <string name="info_daltonize_title">
+        DALTONIZZAZIONE
+    </string>
+
+    <string name="info_daltonize_subtitle">
+        Correzione dell\'immagine
+    </string>
+
+    <string name="info_introduction">
+        Scegli una terminologia che desideri approfondire.
+    </string>
+
+    <string name="info_trichromatic_text">
+        Il nostro occhio è composto da due fotorecettori che prendono il nome di coni e bastoncelli. Quest\'ultimi
+        favoriscono la visione notturna, mentre i coni sono responsabili dell\'interpretazione dello stimolo luminoso,
+        che, una volta gusto al cervello, lo converte in un colore a noi noto. La visione così detta \"normale\" o, più
+        nello specifico, visione tricromatica, viene garantita da un corretto funzionamento dei tre tipi di coni presenti
+        nel nostro occhio, di cui uno responsabile del rosso, uno del verde e infine uno del blu.
+    </string>
+
+    <string name="info_protanopia_text">
+        Una persona protanope  è totalmente insensibile al colore rosso. Quindi a causa della protanopia risulta
+        difficoltoso distinguere blu-viola e verde-marrone.
+    </string>
+
+    <string name="info_deuteranopia_text">
+        Una persona deuteranope è totalmente insensibile al colore verde. La deuteranopia è il tipo più comune
+        di daltonismo e, per questo motivo, viene spesso confusa e considerata come la sua totalità e non una sua parte.
+        La difficoltà di distinzione dei colori coinvolge il rosso-verde e azzurro-viola.
+    </string>
+
+    <string name="info_tritanopia_text">
+        Una persona tritanope è totalmente insensibile al colore blu.È la più rara tra tutte le forme di dicromatismo
+        e impedisce la distinzione tra rosso-viola e verde-celeste.
+    </string>
+
+    <string name="info_daltonize_text">
+        Per \"daltonizzazione\" si intende quel processo di elaborazione delle immagini che permette ad un daltonico
+        di percepire meglio i contrasti tra i colori, garantendo così un miglioramento nella percezione di quest\'ultimi.
+        Il termine, al momento, non è ancora presente nei vocabolari, ma viene molto usato nel web anche in lingua
+        inglese (\"daltonize\"). Una nuova frontiera degli studi sul daltonismo, propone un\'alternativa
+        che consiste nell\'evidenziare i bordi degli oggetti, in quanto il cambiamento del colore non
+        sempre risulta efficacie. In questa applicazione ho messo a disposizione la possibilità di
+        scegliere quale metodo utilizzare, in concomitanza alle esigenze e al contesto.
+    </string>
+
+
+
+
+    <!-- LIST METODO DI DALTONIZZAZIONE (PREFERENZE) -->
+
+    <string name="daltonize_method_title">
+        Metodo di correzione
+    </string>
+
+    <string name="default_daltonize_method">
+        0
+    </string>
+
+
+
+
+    <!-- CHECKBOX FINGER FILTER (PREFERENZE) -->
+
+    <string name="finger_filter_title">
+        Mostra simulazione alla pressione
+    </string>
+
+    <string name="finger_filter_summary_true">
+        Durante la correzione, tenendo premuto sullo schermo, verrà visualizzata la simulazione daltonica corrispondente alla correzione scelta
+    </string>
+
+    <string name="finger_filter_summary_false">
+        Durante la correzione, tenendo premuto sullo schermo, verrà rimosso qualunque filtro applicato, riportando la vista a \'Normale\'
+    </string>
+
+
+
+    <!-- LABEL PER LE VOCI DEL MENU DEI FILTRI -->
+
+    <string name="filter_label_normal">
+        NORMALE\nVisione tricromatica
+    </string>
+
+    <string name="filter_label_protanope">
+        PROTANOPIA\nCecità al rosso
+    </string>
+
+    <string name="filter_label_deuteranope">
+        DEUTERANOPIA\nCecità al verde
+    </string>
+
+    <string name="filter_label_tritanope">
+        TRITANOPIA\nCecità al blu
+    </string>
+
+    <string name="filter_menu_explanation">
+        Seleziona un filtro da applicare. Questo ti permetterà di vedere come un daltonico.
+    </string>
+
+
+
+    <!-- TESTO ALTERNATIVO PER LE VOCI DEL MENU DEI FILTRI -->
+
+    <string name="filter_normal_alt">
+        NORMALE\nVisione tricromatica
+    </string>
+
+    <string name="filter_protanope_alt">
+        PROTANOPIA\nCecità al rosso
+    </string>
+
+    <string name="filter_deuteranope_alt">
+        DEUTERANOPIA\nCecità al verde
+    </string>
+
+    <string name="filter_tritanope_alt">
+        TRITANOPIA\nCecità al blu
+    </string>
+
+
+
+
+    <!-- LABEL PER LE VOCI DEL MENU DELLA DALTONIZZAZIONE -->
+
+    <string name="daltonize_label_protanope">
+        PROTANOPIA\nCecità al rosso
+    </string>
+
+    <string name="daltonize_label_deuteranope">
+        DEUTERANOPIA\nCecità al verde
+    </string>
+
+    <string name="daltonize_label_tritanope">
+        TRITANOPIA\nCecità al blu
+    </string>
+
+    <string name="daltonize_menu_explanation">
+        Scegli una correzione mirata ad un tipo di daltonismo. Permette di distinguere i colori.
+    </string>
+
+
+
+
+    <!-- TESTO ALTERNATIVO PER LE VOCI DEL MENU DEI FILTRI -->
+
+    <string name="daltonize_protanope_alt">
+        PROTANOPIA\nCecità al rosso
+    </string>
+
+    <string name="daltonize_deuteranope_alt">
+        DEUTERANOPIA\nCecità al verde
+    </string>
+
+    <string name="daltonize_tritanope_alt">
+        TRITANOPIA\nCecità al blu
+    </string>
+
+
+
+    <!-- TESTO DEL TOAST DOPO LO SCATTO DELLA FOTO EFFETTUATO CON SUCCESSO -->
+
+    <string name="success_photo_toast_message">
+        Foto salvata nella galleria
+    </string>
+
+
+</resources>

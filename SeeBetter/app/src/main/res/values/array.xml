@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="daltonize_method">
+        <item>Correzione del colore</item>
+        <item>Evidenziazione dei bordi</item>
+        <item>Entrambi (Richiede smartphone potente)</item>
+    </string-array>
+
+    <string-array name="daltonize_method_data">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>
